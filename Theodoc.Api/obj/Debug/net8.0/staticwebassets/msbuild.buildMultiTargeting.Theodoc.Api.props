@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Theodoc.Api.props" />
+</Project>
